@@ -1,4 +1,4 @@
-I'm Juan, welcome to my GitHub profile
+<h3 align="left">I'm Juan, welcome to my GitHub profile
 
 <h3 align="left">This is a place where I explore ideas and break things</h3>
 
