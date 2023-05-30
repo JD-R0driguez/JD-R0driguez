@@ -8,13 +8,11 @@ I'm a passionate front-end developer with a knack for creating visually stunning
 
 ## 🚀 Technologies I Work With:
 
-<p align="center">
-  <img src="https://your-icon-url.com/html5.svg" alt="HTML5" width="50" height="50" />
-  <img src="https://your-icon-url.com/css3.svg" alt="CSS3" width="50" height="50" />
-  <img src="https://your-icon-url.com/javascript.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://your-icon-url.com/react.svg" alt="React" width="50" height="50" />
-  <img src="https://your-icon-url.com/bootstrap.svg" alt="Bootstrap" width="50" height="50" />
-</p>
+- HTML5 ⚡️
+- CSS3 💅
+- JavaScript 🚀
+- React ⚛️
+- Bootstrap 🅱️
 
 ## 🎨 Let's Create Something Extraordinary!
 
