@@ -1,4 +1,4 @@
-## I'm Juan, welcome to my GitHub profile
+## I'm David, welcome to my GitHub profile
 
 <h4 align="left">This is a place where I explore ideas and break things</h3>
 
